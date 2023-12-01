@@ -1,5 +1,5 @@
-# Pong Python
-> Simple pong game.
+# Pong
+> Simple pong game in Python.
 
 ## Table of Contents
 * [General Info](#general-information)
